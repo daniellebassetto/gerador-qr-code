@@ -29,17 +29,15 @@ Este é um gerador de QR Code elegante e funcional, desenvolvido com **HTML**, *
 
 5. O QR Code será exibido na tela abaixo do botão. 📷
 
-## 📂 Estrutura do Projeto
+## 🤝 Contribuições
 
-- 📄 `index.html`: Contém a estrutura HTML da aplicação.
-- 🎨 `styles.css`: Estilos personalizados para a interface.
-- 🧩 `script.js`: Lógica para a geração do QR Code.
-- 🛠️ `qrcode.min.js`: Biblioteca JavaScript utilizada para criar o QR Code.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! 💡 Caso tenha sugestões ou melhorias, sinta-se à vontade para criar uma **issue** ou abrir um **pull request**. 🙌
+Contribuições são **muito bem-vindas**! 💡  
+Abra uma *issue* ou envie um *pull request* para melhorias e sugestões. Vamos deixar esse projeto ainda mais incrível juntos! 🎉
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). 📝
+Este projeto está sob a **Licença MIT**. 📝  
+Sinta-se livre para usá-lo, modificá-lo e compartilhá-lo! 😊
+
+## 🌟 Obrigado por conferir este projeto! 🌟  
+Se você gostou, deixe uma estrela ⭐ no repositório e compartilhe com seus amigos. 🚀
