@@ -91,3 +91,9 @@
     pointer-events: auto;
     transition: 0.5s;
   }
+
+  @media (max-width: 600px) {
+    .container {
+      width: 350px;
+    }
+  }
