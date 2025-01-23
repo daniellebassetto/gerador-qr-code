@@ -12,7 +12,7 @@ Este é um gerador de QR Code elegante e funcional, desenvolvido com **HTML**, *
 
 - 🌐 **HTML**: Para estruturar os elementos do projeto.
 - 🎨 **CSS**: Para criar uma interface moderna e estilizada com cores vibrantes.
-- 🧠 **JavaScript**: Para a funcionalidade de geração de QR Codes usando a biblioteca QRCode.js.
+- 🧠 **JavaScript**: Para a funcionalidade de geração de QR Code.
 
 ## 📋 Como Utilizar
 
